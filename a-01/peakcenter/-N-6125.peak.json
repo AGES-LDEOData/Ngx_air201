@@ -1,0 +1,42 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhbJlrWF/oVCFs61NrZlYUIW09S3YG5FQhbY8za/T1FCFt4RNrXcvkIW4zA2yUEfQhboTzdIF+ZCFu1tt2icCEIW8ow2YH+UQhb3q7bQRmVCFvzKN7SH/0IXAeg3055lQhcHBzhDqbtCFwwmN9VlbEIXEUU4AQKhQhcWYzhA9qNCFxuCOB8NBEIXIKE4ER4GQhclvzgGYNdCFyreOAlQnkIXL/04CmQSQhc1HDdEMQBCFzo6NhLIX0IXP1m1G/WSQhdEeDSj/g9CF0mWNpbQHkIXTrU2szdSQhdT1LaQiBpCF1jzNnv87UIXXhE2QAkbQhdjMLa26tU=",
+        "resolution": null
+    },
+    "H2": {
+        "center_dac": 37.76945813937181,
+        "center_signal": 0.057280281572444344,
+        "high_dac": 37.80718359027361,
+        "high_resolving_power": 1654.5907553985,
+        "high_signal": 0.010785225733523996,
+        "low_dac": 37.73173268847,
+        "low_resolving_power": 1569.223717628673,
+        "low_signal": 0.010942401329966532,
+        "points": "QhbJlrbEZ4RCFs61N8Po6kIW09S3lvHtQhbY8zgDsdtCFt4ROUdsUEIW4zA6qFBBQhboTzuL4I5CFu1tPDe3WkIW8ow8yy97Qhb3qz0i7b9CFvzKPVQd50IXAeg9ZoXFQhcHBz1qTZBCFwwmPWqWdEIXEUU9anaBQhcWYz1qbR1CFxuCPWnxb0IXIKE9aNgIQhclvz1j0ixCFyrePVJWoEIXL/09Lcr5Qhc1HDzlvy9CFzo6PD7d4UIXP1k7G4r8QhdEeDenPpxCF0mWtwWGE0IXTrW3lsWUQhdT1DZprqlCF1jzN3QNbEIXXhG2ytJ1QhdjMLcgLY8=",
+        "resolution": 434.7487799664307
+    },
+    "L2": {
+        "center_dac": 37.781482187468,
+        "center_signal": 11397.362530133532,
+        "high_dac": 37.80928779869044,
+        "high_resolving_power": 2994.402319292879,
+        "high_signal": 2096.6433062519022,
+        "low_dac": 37.75367657624555,
+        "low_resolving_power": 3806.163557886737,
+        "low_signal": 2255.92866794437,
+        "points": "QhbJlgAAAABCFs61AAAAAEIW09QAAAAAQhbY8wAAAABCFt4RP4AAAEIW4zA/gAAAQhboTwAAAABCFu1tAAAAAEIW8oxAQAAAQhb3q0AAAABCFvzKQmQAAEIXAehEHcAAQhcHB0XE0ABCFwwmRissAEIXEUVGL3wAQhcWY0Yw1ABCFxuCRiz8AEIXIKFGLZAAQhclv0YsoABCFyreRiyUAEIXL/1GKxQAQhc1HEYYNABCFzo6RZKwAEIXP1lDgoAAQhdEeEGwAABCF0mWQbAAAEIXTrVCAAAAQhdT1EGQAABCF1jzQTAAAEIXXhFBAAAAQhdjMAAAAAA=",
+        "resolution": 631.5899367351412
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H2",
+    "reference_isotope": "Ar40"
+}
