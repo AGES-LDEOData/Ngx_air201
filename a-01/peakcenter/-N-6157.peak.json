@@ -1,0 +1,42 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhbIKralNaRCFs1Jtrx790IW0mgy0j95QhbXh7c0+i9CFtyltnloNkIW4cQ2SStWQhbm4zaWQgpCFuwBtx3RrUIW8SC2ue9BQhb2P7ZRm0lCFvteN4gC5UIXAHw4Akp3QhcFmze+97RCFwq6OATwUUIXD9k4MiTOQhcU9zgJ14xCFxoWOA0+YkIXHzU4ALqEQhckUzgYU7NCFylyOBwqa0IXLpE31RHiQhczsDba6cpCFzjOtOe2NkIXPe23lvxqQhdDDDbo0cNCF0gqNrDTRkIXTUk3NQXWQhdSaLcVDVhCF1eHttm+ykIXXKW2tS5MQhdhxDcB94s=",
+        "resolution": null
+    },
+    "H2": {
+        "center_dac": 37.76821985677952,
+        "center_signal": 0.05742675966369284,
+        "high_dac": 37.806095608282526,
+        "high_resolving_power": 1699.2605142818663,
+        "high_signal": 0.011333233286189386,
+        "low_dac": 37.73034410527651,
+        "low_resolving_power": 1569.1909757108772,
+        "low_signal": 0.011036374598002139,
+        "points": "QhbIKjak67ZCFs1Jtx7rEkIW0mi2U4CdQhbXh7dxJxdCFtylOWs4KEIW4cQ6jVdjQhbm4zt/3nlCFuwBPDjiHEIW8SA8wG9dQhb2Pz0kjKJCFvtePVEBkEIXAHw9Z3wEQhcFmz1rK9tCFwq6PWrk80IXD9k9azhFQhcU9z1q8U5CFxoWPWrW4EIXHzU9aW3sQhckUz1lik9CFylyPVUzT0IXLpE9MvdPQhczsDzmQlVCFzjOPFUm1kIXPe07FLHtQhdDDDg/xUhCF0gqt7jIjkIXTUk2HI/VQhdSaLbB69pCF1eHNiVDDUIXXKW4Gr9mQhdhxDerpPw=",
+        "resolution": 437.7657772016508
+    },
+    "L2": {
+        "center_dac": 37.78024390487571,
+        "center_signal": 11427.66271917636,
+        "high_dac": 37.80819981669936,
+        "high_resolving_power": 3144.031951421754,
+        "high_signal": 2125.701194077154,
+        "low_dac": 37.752287993052065,
+        "low_resolving_power": 3694.096413436587,
+        "low_signal": 2069.529356674362,
+        "points": "QhbIKgAAAABCFs1JAAAAAEIW0mgAAAAAQhbXhwAAAABCFtylP4AAAEIW4cRAAAAAQhbm4wAAAABCFuwBP4AAAEIW8SA/gAAAQhb2P0EAAABCFvteQhQAAEIXAHxEH0AAQhcFm0W04ABCFwq6RihAAEIXD9lGL/AAQhcU90YxmABCFxoWRi7wAEIXHzVGMowAQhckU0YsYABCFylyRissAEIXLpFGLCwAQhczsEYcXABCFzjORabQAEIXPe1DcgAAQhdDDEHYAABCF0gqQZgAAEIXTUlBoAAAQhdSaEHgAABCF1eHQYgAAEIXXKVBEAAAQhdhxAAAAAA=",
+        "resolution": 631.5667239038664
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H2",
+    "reference_isotope": "Ar40"
+}
