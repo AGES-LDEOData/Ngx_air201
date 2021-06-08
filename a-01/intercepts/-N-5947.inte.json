@@ -16,10 +16,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 153.8834256653243
+        "value": 153.88342566532424
     },
     "Ar37": {
-        "error": 3.460400011750297,
+        "error": 1.6160331334821822,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,17 +28,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 180.24350138963723
+        "value": 182.53333333333333
     },
     "Ar38": {
-        "error": 2.468654645356603,
+        "error": 2.4686546453566023,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -57,7 +57,7 @@
         "value": 130.57041505780472
     },
     "Ar39": {
-        "error": 0.7898346917545435,
+        "error": 0.5146355494364129,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 200,
         "include_baseline_error": false,
         "n": 200,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 25.734652889559996
+        "value": 33.93
     },
     "Ar40": {
-        "error": 105.00046978791642,
+        "error": 105.00046978791653,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 40181.68144444293
+        "value": 40181.681444442904
     }
 }

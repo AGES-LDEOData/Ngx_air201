@@ -16,10 +16,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 156.97366177402574
+        "value": 156.97366177402571
     },
     "Ar37": {
-        "error": 4.410483965416002,
+        "error": 2.0820323621553403,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 181.0129476709664
+        "value": 174.9
     },
     "Ar38": {
         "error": 2.2821457581973057,
@@ -54,10 +54,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 128.31974663055445
+        "value": 128.31974663055448
     },
     "Ar39": {
-        "error": 0.8161811399140422,
+        "error": 0.48737516118355223,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 200,
         "include_baseline_error": false,
         "n": 200,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 25.549975951732165
+        "value": 32.325
     },
     "Ar40": {
-        "error": 95.61650941829966,
+        "error": 95.61650941829964,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 39723.945024829896
+        "value": 39723.94502482987
     }
 }

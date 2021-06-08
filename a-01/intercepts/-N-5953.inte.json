@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 5.374176081433473,
+        "error": 5.374176081433475,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -16,10 +16,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1281.9930831680958
+        "value": 1281.9930831680963
     },
     "Ar37": {
-        "error": 3.2546979928771,
+        "error": 1.5550703776590604,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 175.76785270256192
+        "value": 181.08333333333334
     },
     "Ar38": {
         "error": 3.7120672456474346,
@@ -54,10 +54,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 338.30390464285927
+        "value": 338.3039046428594
     },
     "Ar39": {
-        "error": 0.8987808762320062,
+        "error": 0.548148894968581,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 200,
         "include_baseline_error": false,
         "n": 200,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 27.92139317276319
+        "value": 35.795
     },
     "Ar40": {
-        "error": 105.24833489050005,
+        "error": 105.24833489050008,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,

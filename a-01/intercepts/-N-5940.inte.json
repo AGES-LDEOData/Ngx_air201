@@ -16,10 +16,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 155.66384973515082
+        "value": 155.66384973515076
     },
     "Ar37": {
-        "error": 3.412763785624464,
+        "error": 1.5980508372210032,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -28,14 +28,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 60,
         "include_baseline_error": false,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 181.78327247411949
+        "value": 178.83333333333334
     },
     "Ar38": {
         "error": 2.2403161813830152,
@@ -54,10 +54,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 128.04232622924846
+        "value": 128.0423262292485
     },
     "Ar39": {
-        "error": 0.8033724925477415,
+        "error": 0.5040414555815064,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "Average",
         "fn": 200,
         "include_baseline_error": false,
         "n": 200,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 26.64048123577452
+        "value": 34.25
     },
     "Ar40": {
-        "error": 101.1695663033382,
+        "error": 101.16956630333824,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -92,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 40258.69007109838
+        "value": 40258.69007109835
     }
 }
